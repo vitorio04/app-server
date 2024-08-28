@@ -1,0 +1,6 @@
+Flask==3.0.3
+Flask-Limiter==3.8.0
+pandas==2.2.2
+SQLAlchemy==2.0.32
+flask_cors==4.0.1
+freeze
